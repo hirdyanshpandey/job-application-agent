@@ -1,0 +1,15 @@
+{
+  "name": "Example Candidate",
+  "contact": "candidate@example.com",
+  "pitch": "I build Python backend services and data pipelines using FastAPI, PostgreSQL, and AWS.",
+  "skills": ["Python", "FastAPI", "PostgreSQL", "AWS", "Celery"],
+  "experience": [
+    {
+      "title": "Backend Engineer",
+      "company": "Example Company",
+      "dates": "2021–Present",
+      "bullets": ["Designed FastAPI services.", "Built retryable Celery jobs.", "Migrated SQL reporting workloads to PostgreSQL."]
+    }
+  ],
+  "education": ["B.Tech, Computer Science"]
+}

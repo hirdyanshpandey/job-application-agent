@@ -1,0 +1,7 @@
+{
+  "company": "Example Employer",
+  "title": "Senior Python Engineer",
+  "url": "https://example.com/careers/python",
+  "email": "",
+  "description": "Build production FastAPI services with PostgreSQL and AWS."
+}
